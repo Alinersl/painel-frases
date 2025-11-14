@@ -1,0 +1,81 @@
+/* CONTEÚDO */
+body {
+    background: linear-gradient(to right, rgb(206, 190, 228), white, rgb(206, 190, 228), white);
+}
+
+.container {
+    padding: 30px;
+    width: 45%;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+    margin: 50px auto;
+    background: white;
+    box-shadow: 3px 3px 3px 3px #636363;
+}
+
+#btn {
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+#btn:hover {
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: rgba(201, 199, 199, 0.666);
+}
+
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* FOOTER */
+footer p {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+footer {
+    padding: 5px 0;
+    margin-top: 10px;
+    background: rgba(201, 199, 199, 0.666);
+    gap: 30px;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+/* TEXTOS */
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section p{
+    font-size: 30px;
+}
+/* BOTÃO */
+button {
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    padding: 8px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 13px;
+    box-shadow: 3px 3px 3px #636363;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
