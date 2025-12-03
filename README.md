@@ -39,8 +39,7 @@ No futuro, as possíveis mudanças que o site pode receber são:
 Nesse projeto aprendi mais sobre Java Svcript e aprendi sobre combinação de cores por causa do contraste que coloquei no meu site, entre roxo, cinza e branco.
 
 ## Autor
-Aline Rodrigues Silva
-Turma de Tecnoologia em Informática para Internet (Vespertino) - Senac DF
+Aline Rodrigues Silva - Turma de Tecnoologia em Informática para Internet (Vespertino) - Senac DF
 
 
 
